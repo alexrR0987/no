@@ -1,0 +1,1 @@
+x=msgbox("private file was locked, to unlock open the app again." ,48, "file locked")
